@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Letiv | 電子商務網站UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+使用 React JS，TailsindCSS 以及 Fake Store API 來獲取產品數據的響應式電子商務網站 UI。
 
-## Available Scripts
+A responsive ecommerce App UI using React JS and TailsindCSS  with Using Fake Store API to Get Products Data.
 
-In the project directory, you can run:
 
-### `npm start`
+## 試用 Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+請點擊連結 [https://letiv.vercel.app/](https://letiv.vercel.app/) 試用 demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 畫面截圖
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img src="images/screenshot1.png" alt="screenshot1" width="500" height="279"> |  <img src="images/screenshot2.png" alt="screenshot2" width="500" height="279"> |
+|<img src="images/screenshot3.png" alt="screenshot3" width="500" height="279"> | <img src="images/screenshot4.png" alt="screenshot4" width="500" height="279">  | 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 安裝
 
-### `npm run eject`
+以下將會引導你如何安裝此專案到你的電腦上。
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Node.js 版本建議為：`v20.11.1` 以上...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 取得專案
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/zoewang7512/Letiv.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 移動到專案內
 
-## Learn More
+```bash
+cd Letiv
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 安裝套件
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+### 運行專案
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
+### 發佈專案
 
-### Analyzing the Bundle Size
+```bash
+npm run deploy
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 專案技術
 
-### Making a Progressive Web App
+- Node.js v20.11.1
+- react v18.3.1
+- react-router-dom v6.24.1
+- react-icons v5.2.1
+- tailwindcss v3.4.4
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
