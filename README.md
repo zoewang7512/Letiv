@@ -29,13 +29,13 @@ Node.js 版本建議為：`v20.11.1` 以上...
 ### 取得專案
 
 ```bash
-git clone https://github.com/zoewang7512/2021-Canada-Travelogue.git
+git clone https://github.com/zoewang7512/Letiv.git
 ```
 
 ### 移動到專案內
 
 ```bash
-cd 2021-Canada-Travelogue
+cd Letiv
 ```
 
 ### 安裝套件
