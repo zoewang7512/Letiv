@@ -12,6 +12,8 @@ A responsive ecommerce App UI using React JS and TailsindCSS  with Using Fake St
 
 ## 畫面截圖
 
+<img src="images/Letiv-launch.png">
+
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img src="images/screenshot1.png" alt="screenshot1" width="500" height="279"> |  <img src="images/screenshot2.png" alt="screenshot2" width="500" height="279"> |
